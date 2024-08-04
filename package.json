@@ -1,0 +1,26 @@
+{
+  "name": "month_end_nodejs_evaluation",
+  "version": "1.0.0",
+  "description": "backend first evaluation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pqnitish/month_end_nodejs_evaluation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pqnitish/month_end_nodejs_evaluation/issues"
+  },
+  "homepage": "https://github.com/pqnitish/month_end_nodejs_evaluation#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.2",
+    "nodemon": "^3.1.4"
+  }
+}
